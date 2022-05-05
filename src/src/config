@@ -1,0 +1,23 @@
+# work dir
+dirWork=/lanec3_home/huadm/SingleCell
+
+# code directory
+dirCode=$dirWork/src
+
+# data directory
+dirData=$dirWork/data
+
+# results directory
+dirRes=$dirWork/result
+
+# log directory
+dirLog=$dirWork/log
+
+# absolute path of python 2.7.12
+python=~/anaconda3/envs/py27/bin/python
+python3=~/anaconda3/envs/py37/bin/python
+
+# absolute path of Rscript
+rscript=/usr/local/bin/Rscript
+
+
